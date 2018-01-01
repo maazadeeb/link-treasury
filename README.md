@@ -12,8 +12,9 @@ A place where I collect useful links to all sorts of things
 |Link|Author|Comments|
 |-|-|-|
 |[JavaScript30](https://javascript30.com/)|[Wes Bos](http://wesbos.com/)|Learn to build stuff with vanilla JS. Very popular course and has good reviews.|
-|[Prototypes](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)|[Arnav Aggarwal](https://codeburst.io/@arnav_aggarwal)|Pretty short and quick prototypes reference.|
+|[Prototypes](https://codeburst.io/master-javascript-prototypes-inheritance-d0a9a5a75c4e)|[Arnav Aggarwal](https://twitter.com/farm_fresh_js)|Pretty short and quick prototypes reference.|
 |[Debounce/Throttle](http://demo.nimius.net/debounce_throttle/)|Unknown|Good mousemove example of debounce/throttle.|
+|[Read jQuery source](https://j11y.io/jquery/)|[James Padolsey](https://twitter.com/padolsey)|Cool/quick way to see jQuery source by version|
 
 ## Git
 
