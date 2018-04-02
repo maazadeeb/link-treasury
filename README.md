@@ -6,6 +6,7 @@ A place where I collect useful links to all sorts of things
 |Link|Author|Comments|
 |-|-|-|
 |[A collection of useful front-end dev stuff](http://codingheroes.io/resources/)|[Jonas Schmedtmann](https://twitter.com/jonasschmedtman)|LOTs of good links.|
+|[Music to focus during coding](https://musicforprogramming.net)|[Datassette](https://twitter.com/datassette)|Continuous voiceless music. Gives a very nice focus sort of vibe.|
 
 ## JavaScript
 
